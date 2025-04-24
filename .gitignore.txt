@@ -1,0 +1,23 @@
+# Ignore exported builds
+build/
+dist/
+export/
+
+# Ignore temporary files
+*.tmp
+*.bak
+*.temp
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# Logs and user-specific configs (if any)
+*.log
+
+# GDevelop cache (if it appears)
+.cache/
+
+# Backup JSONs (auto-generated on save)
+*.autosave.json
+*.backup.json
