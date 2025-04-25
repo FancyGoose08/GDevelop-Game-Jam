@@ -1,0 +1,12 @@
+# Handle text files automatically
+* text=auto
+
+# Treat GDevelop project files as text
+*.json text
+
+# Treat media files as binary
+*.png binary
+*.jpg binary
+*.wav binary
+*.mp3 binary
+*.ogg binary
