@@ -1,0 +1,8 @@
+Theme: Overpowered
+Idea: Mini RPG
+
+- The game starts as any other RPG would: the player wakes up in a cave equipped with nothing
+- They find a not-so-secret room where they equip a sword that does infinite damage and armor that prevents them from taking damage
+- The player plays through 2-3 bounty hunter missions with ease before facing a final boss
+- The final boss is defeated in one hit
+- The game ends with the player looking around confused like "Is that it?" before cutting to black with the text "Yup."
